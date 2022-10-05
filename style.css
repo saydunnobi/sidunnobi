@@ -1,0 +1,148 @@
+body{
+    font: 400;
+    margin: 0%;
+    background-color: rgba(240, 245, 243, 0.267)
+  
+}
+span{
+    color: orange;
+}
+div{
+   padding: 0%;
+   padding-left: 5%;
+
+}
+h1{
+    font-size:50px;
+}
+h2{
+    color: orange;
+}
+section{
+   display: inline-block; 
+   
+
+}
+img{
+    padding-left: 3%;
+}
+.hafe{
+   padding-top: 0%;
+   padding-bottom: 5%;
+}
+.hafe1{
+    background-image: url(img/heart-box-tablet.png);
+   
+    padding-bottom: 80px;
+}
+.new{
+    position: relative;
+    
+}
+h3{
+ color: royalblue;
+ 
+}
+a{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    padding: 10px 40px;
+    text-size-adjust: 5px;
+    border-radius: 5px;
+}
+.banar{
+    display: flex;
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+}
+
+.dream{
+    color: rgba(235, 31, 99, 0.466);
+}
+.pre{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 10px ;
+    box-shadow: 5px 10px 8px #888888;
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+}
+.snd{
+    display: flex;
+    background-repeat: no-repeat;
+    display: flex;
+    
+}
+.sndimg{
+    background-image: url(img/heart-box-tablet.png);
+    display: flex;  
+    padding-bottom: 50px; 
+}
+.dreampre{
+    background-color: rgba(248, 172, 95, 0.205);
+    padding-right: 20%;
+    margin-left: 0%;
+    
+}
+.thr{
+    display: flex;
+}
+.my{
+    color: rgb(236, 121, 240);
+}
+.four{
+    display: flex;
+}
+.hm{
+    padding-top: 70px;
+    padding-right: 50px;
+}
+
+.for{
+   margin-top: 70px;
+}
+.four h3{
+    padding-top: 50%;
+}
+.three{
+    display: flex;
+    border-radius: 5px;
+   
+}
+.web{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 10px ;
+    box-shadow: 5px 10px 8px #888888;
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+
+}
+.baby{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 10px 10px;
+    box-shadow: 5px 10px 8px #888888; 
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+}
+.hi{
+    padding-left: 30px;
+}
+.mypro{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 10px 10px;
+    box-shadow: 5px 10px 8px #888888; 
+    width: 500px;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.h{
+    margin-bottom: 50px;
+}
